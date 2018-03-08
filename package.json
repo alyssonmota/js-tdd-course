@@ -1,0 +1,28 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Minha biblioteca do curso JS com tdd na prática",
+  "main": "index.js",
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyssonmota/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Alysson Mota <mota.alysson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alyssonmota/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/alyssonmota/js-tdd-course#readme"
+}
